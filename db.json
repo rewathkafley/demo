@@ -10,5 +10,6 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "choices":["a","b","c"]
 }
