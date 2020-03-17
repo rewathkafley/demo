@@ -11,5 +11,6 @@
   "profile": {
     "name": "typicode"
   },
-  "choices":["a","b","c"]
+  "choices":["a","b","c"],
+  "fruits":[{"name":"Apple","value":1},{"name":"Mango","value":2},{"name": "Orange", "value":3}]
 }
