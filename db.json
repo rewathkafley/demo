@@ -13,5 +13,6 @@
     "name": "typicode"
   },
   "choices":["a","b","c"],
-  "fruits":[{"name":"Apple","value":1},{"name":"Mango","value":2},{"name": "Orange", "value":3}]
+  "fruits":[{"name":"Apple","value":1},{"name":"Mango","value":2},{"name": "Orange", "value":3}],
+  "news":[{"title": "Hot news", "description":"corona virus is dead"}, {"title": "latest news", "description":"one new case in phuntsholing"}]
 }
